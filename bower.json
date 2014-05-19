@@ -1,10 +1,12 @@
 {
-  "name": "clipping",
-  "private": true,
-  "dependencies": {
-    "bootstrap-sass-official": "~3.1.0",
-    "modernizr": "~2.6.2",
-    "jquery": "~1.11.0"
-  },
-  "devDependencies": {}
+    "name": "clipping",
+    "private": true,
+    "dependencies": {
+        "bootstrap-sass-official": "~3.1.0",
+        "modernizr": "~2.6.2",
+        "jquery": "~1.11.0",
+        "sylvester": "~0.1.3",
+        "polyClip": "https://github.com/zoltan-dulac/polyClip.git"
+    },
+    "devDependencies": {}
 }
