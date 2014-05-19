@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"browser",
+				"browserSupportsRequirements"
+			],
+			[
+				"textO",
+				"textOverlayInner"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"dea",
+				"default"
+			],
+			[
+				"textOver",
+				"textOverlayScrollInner"
+			],
+			[
+				"clear",
+				"clearInterval();"
+			],
+			[
+				"timeslice",
+				"timeslice-link"
+			],
+			[
+				"spot",
+				"spotlights-jump"
+			],
+			[
+				"photom",
+				"photometry"
+			],
+			[
+				"photome",
+				"Photometry"
+			],
+			[
+				"VIDEO",
+				"VIDEO_EXT"
+			],
+			[
+				"VIDEO_",
+				"VIDEO_ROOT"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"PxLoader",
+				"PxLoaderImage"
+			],
+			[
+				"initTime",
+				"initTimeslices"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"egg-yea",
+				"egg-year-description"
+			],
+			[
+				"render",
+				"renderErorr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 4834,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/data/tree.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/teachers.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/education.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/models/participation.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/education.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/lib/api-helpers.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/api.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/models/workshop.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_core-elements.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_experience.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/calendar_class.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/lib/content-helpers.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshMain.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/bag.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/technical_riders.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/static.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/error.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/bag-master.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/lib/content-loader.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/contact_us.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/signup.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/signup.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/lib/canvas-loader.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/cms/local-config.local.php",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/support_us.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/productions.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/calendar_tour.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/tickets/tour_date.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/settings.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/privacy_policy.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/support_us/supporter.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/make_a_donation.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/the_company.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/js/plugins/jquery.scrollTo.min.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/Gruntfile.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/opportunities/opportunities_content.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshOverlays.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/the_company.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/productions.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/index.html",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/models/news.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/modules/signup-form.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/js/plugins/jquery.jscrollpane.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/_header.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/circles_of_support.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/support_us/support.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/index.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/our_supporters.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/holding.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/holding.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/biographies/person.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/CHANGES.md",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/PhotometricView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/press.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/donate.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/modules/gallery-modal.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/common.css",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/app.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_cpt-gallerymodal.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/experience-app.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/TimesliceView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/models/PhotometricModel.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/app.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/productions_single.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/productions/post.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/static/static-app.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/data/dancers-galleries.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/modules/detective.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/Gemfile.lock",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/models/TimesliceModel.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/cms/index.php",
+		"/Users/lawrence.naman/Dropbox/dare/sublime-projects/hofesh.sublime-project",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshBag.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/js/utils.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/.build/css/experience-app.css",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/libs/photometry.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/bag-app.scss",
+		"/Users/lawrence.naman/Desktop/hofeshMainBranched.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_bag.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/js/box2dweb.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/config/app.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/config/app-development.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/config/app-staging.json",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshSettings.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshSound.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience/hofesh/hofeshTracking.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/router.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/ExtendView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/AppView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/VideoView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/models/VideoModel.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/libs/spritespin/spritespin1.js",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/lawrence.naman/Desktop/changes.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/_bag.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/tracking.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_holdingpage.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag-main.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/modules/cookiepolicy.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bootstrap.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_nprogress.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/master.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/_footer.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/layouts/_main.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers/canvas.js",
+		"/Users/lawrence.naman/Dropbox/BagTasks.txt",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/bag.dust",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/libs/nprogress/nprogress.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_bag.reset.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/modules/site-swingingBag.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/libs/pxloader/PxLoaderVideo.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/views/appView.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss/_app-environments.scss",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/libs/howler/howler.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/.jshintrc",
+		"/Users/lawrence.naman/Desktop/archive/photometryObject.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/archive/photometry-gary.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/archive/main.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/photometry1.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/collections/PhotometricsCollection.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/collections/TimeslicesCollection.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/collections/VideosCollection.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/main.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/photometryObject.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/.jshintrc",
+		"/Users/lawrence.naman/Library/Application Support/Sublime Text 2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/photometry.js",
+		"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/libs/underscore-min.map"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates/support_us",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/templates",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/controllers",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/experience",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag, *.js",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag/archive",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/,/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js/bag",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/js",
+			"",
+			"/Users/lawrence.naman/Projects/Hofesh/hofesh-co-uk/build/site/public/scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<h2>Participation",
+			"class schedule",
+			".75em",
+			"main",
+			"ince",
+			"incentives",
+			"renderContentNodes",
+			"intencives",
+			"main",
+			"available at the moment",
+			"blockquote",
+			"education-page",
+			"education is",
+			"tour_date",
+			"list-blocks",
+			"fake-link",
+			"CHOREGRAPHER",
+			"topLevelPosArray",
+			"opportunites",
+			"technical",
+			"text-d",
+			"contact",
+			"controllers",
+			"content",
+			"console",
+			"news",
+			"z-index",
+			"cutive",
+			"getArrowSC",
+			"video",
+			"openVideo",
+			"experience",
+			"HEAD",
+			"circles",
+			"our-supporters",
+			"donation",
+			"cutive",
+			"donation",
+			"donations",
+			"btn",
+			"social",
+			"footer",
+			"our_s",
+			"Donate",
+			"Our Supporters",
+			"our-support",
+			"supporters",
+			"'\n",
+			"privacy",
+			", ",
+			"\"}",
+			"chien",
+			"SVG",
+			"webkit",
+			"textOverlayScrollInner ",
+			"addTextOverlay",
+			"isScroll",
+			"arrow",
+			"scroll",
+			"getArrowScroll",
+			"arrowScrollOnHover",
+			"dancers",
+			"the band",
+			"the team",
+			"chien",
+			"venue,",
+			"access",
+			"footer",
+			"~footer",
+			"console",
+			"flex",
+			"640",
+			"maybe",
+			"640",
+			"gallery",
+			"support us",
+			"donattion",
+			"donate",
+			"initSound",
+			"openGallery",
+			"support us",
+			"make a",
+			"make a donation",
+			"detective",
+			"supportFullExperience",
+			"Modernizr",
+			"this",
+			"fred",
+			"gallop",
+			"slo-mo-through-smoke",
+			"there was a",
+			"audio",
+			"gallop",
+			"company",
+			"beasts",
+			"hands-video",
+			"hands",
+			"renderJsonApiView",
+			"is-active",
+			"footer",
+			"browser",
+			"bag",
+			"textOverlay",
+			"createLine",
+			"textOverlay",
+			"textWidth",
+			"lineBox",
+			"dist",
+			"txWidth",
+			"middle",
+			"GLOBAL_FREEZE",
+			"freezeCount",
+			"renderWor",
+			"middle",
+			"min",
+			"drawDe",
+			"debug",
+			"dist",
+			"console",
+			"}\n",
+			"min-width",
+			"getDistance",
+			"min-width",
+			"width",
+			"style",
+			"min-width",
+			"\"",
+			"HEAD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"3d3d3d",
+			"'",
+			"BAG.log(0, '",
+			"yeji-solo",
+			"f7f7f7",
+			"ccc",
+			"BAG.log(0, '",
+			"beasts",
+			"'",
+			"next",
+			"",
+			"this",
+			"this.photometry",
+			"BAG",
+			"bag",
+			"\"",
+			"",
+			"farmersName",
+			"farmerGender",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 4834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2064,
+								2064
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sett",
+				"public/experience/hofesh/hofeshSettings.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/lawrence.naman/Dropbox/dare/sublime-projects/inspiration.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true
+}
