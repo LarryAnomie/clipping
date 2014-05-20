@@ -1,5 +1,38 @@
 /* global polyClip, window, requestAnimationFrame */
 
+// http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+// http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+
+// requestAnimationFrame polyfill by Erik Möller. fixes from Paul Irish and Tino Zijdel
+
+// MIT license
+
+(function () {
+    var lastTime = 0;
+    var vendors = ['ms', 'moz', 'webkit', 'o'];
+    for (var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
+        window.requestAnimationFrame = window[vendors[x] + 'RequestAnimationFrame'];
+        window.cancelAnimationFrame = window[vendors[x] + 'CancelAnimationFrame'] || window[vendors[x] + 'CancelRequestAnimationFrame'];
+    }
+
+    if (!window.requestAnimationFrame)
+        window.requestAnimationFrame = function (callback, element) {
+            var currTime = new Date().getTime();
+            var timeToCall = Math.max(0, 16 - (currTime - lastTime));
+            var id = window.setTimeout(function () {
+                    callback(currTime + timeToCall);
+                },
+                timeToCall);
+            lastTime = currTime + timeToCall;
+            return id;
+        };
+
+    if (!window.cancelAnimationFrame)
+        window.cancelAnimationFrame = function (id) {
+            clearTimeout(id);
+        };
+}());
+
 var example = (function () {
 
     'use strict';
@@ -17,11 +50,6 @@ var example = (function () {
 
         width = $newCar.width();
         height = $newCar.height();
-
-        console.log(width, height);
-
-        $newCar.find('img').css('height:' + height);
-        $newCar.find('img').css('width:' + width);
 
         /*
          * Setup mouse and touch events to translate the clipping path to be
@@ -52,17 +80,12 @@ var example = (function () {
          * the animation of the mouseover.
          *
          */
-        if (hasGranularRequestAnimationFrame) {
-            if (frameReq) {
-                cancelAnimationFrame(frameReq);
+
+        frameReq = requestAnimationFrame(
+            function () {
+                animateClipRegion(e);
             }
-            frameReq = requestAnimationFrame(
-                function () {
-                    animateClipRegion(e);
-                });
-        } else {
-            animateClipRegion(e);
-        }
+        );
     }
 
 
@@ -75,11 +98,13 @@ var example = (function () {
 
         console.log('animateClipRegion');
 
+        var x = e.pageX - 150;
+        var y = e.pageY - 400;
 
-        var pos = $clipParent.position();
-        var x = e.pageX - mouseOffset - $clipParent.get(0).offsetLeft;
+        console.log(polyClip);
 
-        polyClip.transformClip($newCar, 'translateX(' + x + 'px)');
+        //polyClip.transformClip($newCar, 'translateX(' + x + 'px)');
+        polyClip.transformClip($newCar, 'translateY(' + y + 'px)');
 
 
     }
@@ -89,6 +114,8 @@ var example = (function () {
     };
 
 }());
+
+polyClip.useSVGGlobally = true;
 
 /*
  * Use this call instead of $(document).ready to initialize

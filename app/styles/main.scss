@@ -4,6 +4,10 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
 
+.container {
+    padding: 0;
+}
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
@@ -66,16 +70,14 @@ body {
         margin-top: 28px;
     }
     img {
-        width: 670px;
-        height: 343px;
-        border: 1px solid #ccc;
+
     }
 }
 
 #clip {
     position: relative;
-    width: 670px;
-    height: 343px;
+    width: 1270px;
+    height: 650px;
 }
 
 
@@ -87,13 +89,16 @@ img[data-polyclip] {
     position: absolute;
     top: 0;
     left: 0;
+    cursor: pointer;
 }
+
+
 
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .container {
-        max-width: 730px;
+        //max-width: 730px;
     }
 
     /* Remove the padding we set earlier */
